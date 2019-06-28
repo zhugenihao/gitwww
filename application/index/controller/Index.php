@@ -15,6 +15,7 @@ class Index extends Controller {
 
     public function index(){
 //        Log::record(array(2,323,545,767));
+        echo 323;
         return $this->fetch();
     }
     private function redisConnect() {
