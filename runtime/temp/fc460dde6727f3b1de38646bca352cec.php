@@ -1,0 +1,43 @@
+<?php if (!defined('THINK_PATH')) exit(); /*a:1:{s:84:"D:\phpStudy2\PHPTutorial\WWW\tp5\public/../application/index\view\index\getlist.html";i:1561103978;}*/ ?>
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
+    </head>
+    <body>
+
+        <div style="width:200px;margin:0px auto;height:100px;background: #eee;overflow: hidden;" id="divid">
+            <div class="divid_auto">
+                <div>TODO write content1</div>
+                <div>TODO write content2</div>
+                <div>TODO write content3</div>
+                <div>TODO write content4</div>
+                <div>TODO write content5</div>
+                <div>TODO write content6</div>
+                <div>TODO write content7</div>
+                <div>TODO write content8</div>
+            </div>
+        </div>
+        <script>
+            $(function () {
+//                $(".divid_auto").animate({'margin-top': '-100px'}, 10000);
+//                var time = setInterval(function () {
+//                    $(".divid_auto").css({'margin-top': '0px'});
+////                    setTimeout(function () {
+//                        $(".divid_auto").animate({'margin-top': '-100px'}, 10000);
+////                    }, 2000);
+//                    
+//                }, 12000);
+
+            })
+        </script>
+    </body>
+</html>
